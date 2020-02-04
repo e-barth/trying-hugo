@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://archimedes.org/"
+baseURL = ""
 languageCode = "en-us"
 title = "Archimedes"
 theme = "forty"
